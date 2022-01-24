@@ -19,7 +19,7 @@
 
 ***
 
-# 🖤 Replit.com Version | [FORK!](https://replit.com/@OfficialGORILL/BEARZ-BOT-MESSENGER-FREE)
+# 🖤 Replit.com Version | [FORK!](https://replit.com/@OfficialGORILL/BEARZ-BOT-MESSENGER-FREE?v=1)
 
 ***
 
