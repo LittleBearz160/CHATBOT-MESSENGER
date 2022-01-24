@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=BEARZ+CHATBOT+MESSENGER)](https://github.com/LittleBearz160/BEARZ-BOT-FACEBOOK-MESSENGER)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=BEARZ+CHATBOT+MESSENGER+!)](https://github.com/LittleBearz160/BEARZ-BOT-FACEBOOK-MESSENGER)
 
 #### Dựa trên *MIRAI PROJECT*
 
