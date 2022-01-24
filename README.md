@@ -11,7 +11,7 @@
 ***
 </BR>
 
-### **SERVER DISCORD NHẬN HỖ TRỢ CỦA BEARZ** 
+### ✅ **SERVER DISCORD NHẬN HỖ TRỢ CỦA BEARZ** 
 <BR>
 <a href="https://discord.gg/little-bearz"><img src="https://media.discordapp.net/attachments/919658410788679691/919957032453427250/standard.gif"></a>
 
@@ -23,56 +23,60 @@
 
 ***
 
-## HƯỚNG DẪN CÀI BOT
+## ❓ HƯỚNG DẪN CÀI BOT
 ### **Hãy mua gói REPLIT HACKER PLAN để chống**
 <br/>
 Hướng dẫn cài bot: 
 
 - Vào `./config.json` để điều chỉnh **PREFIX**, **ADMINBOT**,**API** 
 
-- Tạo file `appstate.js` để nhập **FBSTATE**
+
+- Vào file `appstate.js` để nhập **FBSTATE**
+
+
+- Nếu chưa có file `appstate.js` thì tạo rồi paste **FBSTATE** vào
 
 - Bấm `Run` để chạy bot
 <br/>
 
 ***
 
-## CÁCH LẤY FBSTATE
+## ❓ CÁCH LẤY FBSTATE
 `NÊN DÙNG FACEBOOK CLONE ĐỂ LÀM BOT`
 ***
 - **ANDROID**
 
-> Tải **Kiwi Browser** trên CH-Play
+>`1.` Tải **Kiwi Browser** trên CH-Play
 
-> Tải tiện ích [**C3C FACEBOOKSTATE CHO ANDROID**](https://github.com/c3cbot/c3c-fbstate/releases/download/1.0/c3c-fbstate-extractor.crx) 
+>`2.` Tải tiện ích [**C3C FACEBOOKSTATE CHO ANDROID**](https://github.com/c3cbot/c3c-fbstate/releases/download/1.0/c3c-fbstate-extractor.crx) 
 
-> Vào **tiện ích mở rộng** bật chế độ dành cho nhà phát triển
+>`3.` Vào **tiện ích mở rộng** bật chế độ dành cho nhà phát triển
 
-> Nhấn vào nút  `+(from .zip/.crx/.user.js)` để upload 
+>`4.` Nhấn vào nút  `+(from .zip/.crx/.user.js)` để upload 
 
-> Bật tiện ích rồi qua facebook đăng nhập **FB** cần làm **BOT**
+>`5.` Bật tiện ích rồi qua facebook đăng nhập **FB** cần làm **BOT**
 
-> Ấn vào tiện ích --> **C3C FBState Utility** --> ***Export FBState***
+>`6.` Ấn vào tiện ích -> **C3C FBState Utility** -> ***Export***
 </br>
 
 ***
 - **PC/LAPTOP**
 
-> Tải tiện ích [**C3C FACEBOOKSTATE CHO PC/LAPTOP**](https://github.com/c3cbot/c3c-fbstate/archive/refs/tags/1.0.zip) 
+>`1.` Tải tiện ích [**C3C FACEBOOKSTATE CHO PC/LAPTOP**](https://github.com/c3cbot/c3c-fbstate/archive/refs/tags/1.0.zip) 
 
-> Nên dùng  `Chrome` để ổn định hơn
+>`2.` Nên dùng  `Chrome` để ổn định hơn
 
-> Vào **Quản lý tiện ích** bật chế độ dành cho nhà phát triển
+>`3.` Vào **Quản lý tiện ích** bật chế độ dành cho nhà phát triển
 
-> Nhấn vào nút `Tải tiện ích đã giải nén` để upload file
+>`4.` Nhấn vào nút `Tải tiện ích đã giải nén` để upload file
 
-> Bật tiện ích rồi qua facebook đăng nhập **FB** cần làm **BOT**
+>`5.` Bật tiện ích rồi qua facebook đăng nhập **FB** cần làm **BOT**
 
-> Ấn vào tiện ích --> **C3C FBState Utility** --> ***Export FBState***
+>`6.` Ấn vào tiện ích -> **C3C FBState Utility** -> ***Export***
 
 ***
 
-# THÔNG TIN LIÊN HỆ:
+# ✌️ THÔNG TIN LIÊN HỆ:
 
 >[**FACEBOOK BÙI XUÂN LÂM**](https://www.facebook.com/lil.bearz.zz/)
 
@@ -85,7 +89,7 @@ Hướng dẫn cài bot:
 >[**UPDATE SOON...**]()
 
 ***
-# NOTE
+# CREDITS
 
 > ***Nếu sử dụng code Bot, hãy giữ nguyên credit mirai project và các procoder trong team!***
 <br>
