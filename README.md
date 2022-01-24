@@ -19,6 +19,10 @@
 
 ***
 
+# [**REPLIT FORK**](https://replit.com/@OfficialGORILL/BEARZ-BOT-MESSENGER-FREE)
+
+***
+
 ## HƯỚNG DẪN CÀI BOT
 ### **Hãy mua gói REPLIT HACKER PLAN để chống**
 <br/>
