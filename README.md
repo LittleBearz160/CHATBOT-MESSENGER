@@ -78,7 +78,7 @@ Hướng dẫn cài bot:
 
 # ✌️ THÔNG TIN LIÊN HỆ:
 
->[**FACEBOOK BÙI XUÂN LÂM**](https://www.facebook.com/lil.bearz.zz/)
+>[**FACEBOOK**](https://m.me/bearz.project/)
 
 </br>
 
