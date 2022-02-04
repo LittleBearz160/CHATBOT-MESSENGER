@@ -1,30 +1,27 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=BEARZ+CHATBOT+MESSENGER+!)](https://github.com/LittleBearz160/BEARZ-BOT-FACEBOOK-MESSENGER)
+<p align="center"><a href="https://github.com/LittleBearz160" target="_blank" rel="noopener noreferrer"><img  alt="pic" height="200" style="border-radius:1000px;" src="https://cdn.discordapp.com/attachments/919043312260898836/939163822248300584/1643984496849.png"></a></p>
+ 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=BEARZ+CHATBOT+MESSENGER+!)](https://github.com/LittleBearz160/BEARZ-BOT-FACEBOOK-MESSENGER)
 
 #### Dựa trên *MIRAI PROJECT*
-
-
 ***
-<div align="center" style"border-radius:15px">
-  <a href="https://github.com/LittleBearz160/BEARZ-BOT-FACEBOOK-MESSENGER"><img src="https://media.discordapp.net/attachments/919968565606637688/935178148524478494/PicsArt_01-22-11.15.16.jpg?width=1025&height=379" style"width: 100%;border-radius:15px"></a>
-</div>
-
-***
-</BR>
 
 ### ✅ **SERVER DISCORD NHẬN HỖ TRỢ CỦA BEARZ** 
 <BR>
+<p align="center">
 <a href="https://discord.gg/little-bearz"><img src="https://media.discordapp.net/attachments/919658410788679691/919957032453427250/standard.gif"></a>
-
+</p>
 </BR>
 
 ***
 
-# 🖤 Replit.com Version | [FORK!](https://replit.com/@OfficialGORILL/BEARZ-BOTCHAT-MESSENGER-FREE-VERS?v=1)
-
+# 🖤 Replit.com
+</br>
+<p align="center"><a href="https://replit.com/@OfficialGORILL/BEARZ-BOTCHAT-MESSENGER-FREE-VERS?v=1" target="_blank" rel="noopener noreferrer"><img  alt="pic" height="50" style="border_radius:1000px;" src="https://img.shields.io/badge/FORKS-ff0000?style=flat-square&logo=replit&logoColor=black"></a></p>
+ 
 ***
 
 ## ❓ HƯỚNG DẪN CÀI BOT
-### **Hãy mua gói REPLIT HACKER PLAN để chống**
+### **Hãy mua gói REPLIT HACKER PLAN để bảo vệ fbstate**
 <br/>
 Hướng dẫn cài bot: 
 
@@ -77,16 +74,10 @@ Hướng dẫn cài bot:
 ***
 
 # ✌️ THÔNG TIN LIÊN HỆ:
-
->[**FACEBOOK**](https://m.me/bearz.project/)
-
-</br>
-
->[**FACEBOOK NGÔ ĐỨC DUY**](https://www.facebook.com/duynguu.0907/)
-
-</BR>
-
->[**UPDATE SOON...**]()
+<p align="center">
+<a href="https://m.me/bearz.project" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/100/000000/facebook-messenger--v2.png"  width="100" /></a>
+ <a href="mailto:bearz.project@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/100/000000/gmail-new.png"  width="100" /></a>
+</p>
 
 ***
 # CREDITS
