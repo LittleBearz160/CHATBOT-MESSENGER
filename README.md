@@ -72,7 +72,11 @@ Hướng dẫn cài bot:
 >`6.` Ấn vào tiện ích -> **C3C FBState Utility** -> ***Export***
 
 ***
+- **iOS**
 
+> UPDATE SOON...
+
+***
 # ✌️ THÔNG TIN LIÊN HỆ:
 <p align="center">
 <a href="https://m.me/bearz.project" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/100/000000/facebook-messenger--v2.png"  width="100" /></a>
